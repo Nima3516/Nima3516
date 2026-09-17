@@ -1,4 +1,4 @@
-Hi, I.m Nimeshka.
+Hi, I'm Nimeshka.
 
 I Enjoy work with - Linux | Windows | Cybersecurity | Systems
 
