@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I.m Nimeshka.
 
-<!--
-**Nima3516/Nima3516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I Enjoy work with - Linux | Windows | Cybersecurity | Systems
 
-Here are some ideas to get you started:
+I'm currently working with an Information Technology Service Management (ITSM) systems while also learning more about Linux services, system administration, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for opportunities to work with Linux and related technologies, where I can gain deeper hands-on experience with operating systems, system administration, and their services.
+
+Reach me at:
+  📧 Email: unlakshan3516@gmail.com
+  💼 LinkedIn: https://linkedin.com/in/nimeshkalakshan/
+
+(the fun fact is I’m looking for a remote role so I can build my career from home while keeping my favorite daily routine, swimming in the sea.)
+
+⭐ Thanks for visiting my profile!
+
